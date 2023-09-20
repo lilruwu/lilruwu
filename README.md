@@ -1,23 +1,20 @@
-<h1 align='center'>
-  Heyyy! 👋 I'm Rubén 👨‍💻 a 4th year Telecommunications Engineering
-</h1>
+<h2> Hi, I'm Rubén Castro!</h2>
+<p><em>Telecommunications Engineering Student at <a href="https://www.uvigo.gal/es">University of Vigo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
 
-<p align='center'>
-  I'm <b>incredibly passionate</b> about networking, programming, AI and all related with new technologies and a keen interest in working <b>collaboratively with others</b> to create projects and achieve goals.
-</p>
+[![Linkedin](https://img.shields.io/badge/-rubencastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ruben-castro-gonzalez)](www.linkedin.com/in/ruben-castro-gonzalez)
+[![My GitHub](https://img.shields.io/github/followers/lilruwu?label=follow&style=social)](https://github.com/lilruwu)
 
-<details>
-  <summary>🦀 Interests</summary>
-  </br>
-  <ul>
-  <li>Networking (network deployment, network managment, etc...).</li>
-  <li>Java and web development</li>
-  <li>Artifficial Inteligence & New Technologies</li>
-  </ul>
-</details>
 
------
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<a href="www.linkedin.com/in/ruben-castro-gonzalez">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+```javascript
+const ruben = {
+  pronouns: "he" | "him",
+  code: [Javascript, Java, C, Python, SQL, MongoDB],
+  tools: [Git, Node, Tomcat],
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
