@@ -2,7 +2,9 @@
 <p><em>Telecommunications Engineering Student at <a href="https://www.uvigo.gal/es">University of Vigo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Linkedin](https://img.shields.io/badge/-rubencastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/ruben-castro-gonzalez)](https://www.linkedin.com/in/ruben-castro-gonzalez)
+[![Linkedin]<a href="https://www.linkedin.com/in/ruben-castro-gonzalez">
+  <img src="https://img.shields.io/badge/-rubencastro-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
+</a>
 [![My GitHub](https://img.shields.io/github/followers/lilruwu?label=follow&style=social)](https://github.com/lilruwu)
 
 
