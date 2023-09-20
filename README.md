@@ -5,7 +5,10 @@
 <a href="https://www.linkedin.com/in/ruben-castro-gonzalez">
   <img src="https://img.shields.io/badge/-rubencastro-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
 </a>
-[![My GitHub](https://img.shields.io/github/followers/lilruwu?label=follow&style=social)](https://github.com/lilruwu)
+
+<a href="https://github.com/lilruwu">
+  <img src="https://img.shields.io/github/followers/lilruwu?label=follow&style=social" alt="GitHub">
+</a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
