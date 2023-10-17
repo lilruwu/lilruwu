@@ -18,6 +18,7 @@ const ruben = {
   pronouns: "he" | "him",
   code: [Javascript, Java, C, Python, SQL, Typescript],
   tools: [Git, Node, Tomcat, MongoDB]
+  learning: [PyTorch, Azure, AWS]
 }
 ```
 
